@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ibtassam1
-- 👀 I’m interested in Data Analytics and Data Science.
-- 🌱 I’m currently learning Python, R, SQL and PowerBI.
-- 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me: linkedin.com/in/ibtassam
+- 👋 Hi, I’m Ibtassam and I live in Canada.
+- 👀 I’m enthusiastic about Data Analytics and Data Science.
+- 🌱 I enjoy using Excel, SQL, Python, R and PowerBI.
+- 💞️ I’m currently finishing up my Masters in Data Science and ready to take on real world challenges.
+- 📫 How to reach me: Message me at linkedin.com/in/ibtassam
 
 <!---
 ibtassam1/ibtassam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
