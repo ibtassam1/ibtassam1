@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ibtassam and I live in Canada.
 - 👀 I’m enthusiastic about Data Analytics and Data Science.
 - 🌱 I enjoy using Excel, SQL, Python, R and PowerBI.
-- 💞️ I’m currently finishing up my Masters in Data Science and ready to take on real world challenges.
 - 📫 How to reach me: My website: www.ibtassam.com or Message me on www.linkedin.com/in/ibtassam
 
 <!---
